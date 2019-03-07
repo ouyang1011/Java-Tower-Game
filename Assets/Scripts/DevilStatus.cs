@@ -1,4 +1,4 @@
-﻿// I choose this file because it is used encapsulation, and 
+﻿// I choose this file because it is used encapsulation
 // This script provides a way to create a devil and get all the data of it
 using System.Collections;
 using System.Collections.Generic;
