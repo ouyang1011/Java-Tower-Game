@@ -1,4 +1,5 @@
-﻿// This script provides a way to create a devil and get all the data of it
+﻿// I choose this file because it is used encapsulation, and 
+// This script provides a way to create a devil and get all the data of it
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
